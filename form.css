@@ -1,0 +1,18 @@
+form{
+    border: 10px solid rgb(20, 204, 173);
+    border-width: 7px;
+    text-align: center;
+    padding-right: 4%;;
+    padding-right: 20px;
+}
+button {
+    background-color: rgb(21, 218, 185);
+    padding: 14px 20px;
+    border: none;
+    width: 25%;
+  }
+input{
+    width:25%;
+    height: 34px;
+    
+  }
