@@ -1,0 +1,47 @@
+
+body{
+    background-color: antiquewhite;
+    width:120%;
+    
+}
+header{
+    background-color: rgb(21, 218, 185);
+    padding: 14px 20px;
+    border: none;
+    width: 40%;
+    text-align: center;
+    color: white;
+}
+.col{
+    border:1px solid whitesmoke;
+    background-color:white;
+    width:40%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 20px;
+    padding-right: 2px;
+}
+h2{
+    color:palevioletred;
+}
+.ingr {
+        border: 1px solid white;
+        background-color: white;
+        padding-top: 0px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 80px;
+        padding: 5px;
+        width:40%
+
+ }
+ .inst{
+    border: 1px solid white;
+    background-color:white;
+    padding-top: 0px;
+    padding-right:30px;
+    padding-bottom:50px;
+    padding-left: 80px;
+    padding:5px;
+    width: 40%;
+ }
